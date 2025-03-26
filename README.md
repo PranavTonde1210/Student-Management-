@@ -63,6 +63,3 @@ If CSS/JS doesn’t load, check file paths in your code.
 
 
 ---
-
-This should work smoothly! Let me know if you need any changes.
-
